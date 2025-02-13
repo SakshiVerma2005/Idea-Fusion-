@@ -1,4 +1,4 @@
-# Idea-Fusion
+# IDEA FUSION 
 
 # Vasel - Smart Energy Management System ⚡
 
