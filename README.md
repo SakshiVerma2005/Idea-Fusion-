@@ -1,9 +1,9 @@
 # IDEA FUSION 
 
-# Vasel - Smart Energy Management System ⚡
+# S3 Tech - Smart Energy Management System ⚡
 
 ## 🌟 Overview
-Vasel is an AI-powered smart energy monitoring solution that helps users track, optimize, and reduce energy consumption efficiently.
+S3 Tech is an AI-powered smart energy monitoring solution that helps users track, optimize, and reduce energy consumption efficiently.
 
 ## 🚀 Features
 - **Real-Time Monitoring** – Live tracking of energy usage.
